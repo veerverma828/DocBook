@@ -72,7 +72,7 @@ function App() {
                 </ProtectedRoute>
               }
             />
-           <Route
+            <Route
               path="/appointments"
               element={
                 <ProtectedRoute>
